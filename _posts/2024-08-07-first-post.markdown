@@ -3,6 +3,7 @@
 layout: post
 title: "Letter of luck"
 description: good luck
+img: 
 date: 2024-08-07
 
 ---
@@ -21,10 +22,15 @@ date: 2024-08-07
 
 title -> 제목
 description -> 타이틀 아래에 있는 글
+img -> 들어가면 바로 보이는 사진
 
 markdown, html로 구현가능
 https://dillinger.io/ -> 미리보기 가능
+
 -->
+
+
+
 
 # 행운의 편지
 
