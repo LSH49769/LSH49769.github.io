@@ -17,10 +17,10 @@ pic: ape.webp # Place a 200x200 picture inside /assets/img/ folder and provide t
 # Contact links
 email: a01041316030@gmail.com # Add your Email address
 phone: 010 4131 6030 # Add your Phone number
-website: naver.com # Add your website, do not add http://
-#linkedin: # Add your Linkedin handle
+website: www.youtube.com/watch?v=dQw4w9WgXcQ # Add your website, do not add http://
+# linkedin: # Add your Linkedin handle
 github: LSH49769 # Add your Github handle
-twitter: '@castle_lee' # Add your Twitter handle
+twitter: '@2_castlehwan' # Add your Twitter handle
 
 # Tracker
 analytics:
