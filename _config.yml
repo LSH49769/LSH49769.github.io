@@ -11,7 +11,7 @@ blog_theme: dark # Or use dark
 # Profile information
 name: Sunghwan Lee
 tagline: Student
-about-description: 소개글 # Add Discription
+about-description:  Sorry for trying to grab your attention with that image. The fight between Naruto and Sasuke is truly on another level. It's a battle between the strongest characters in the world, and it's hard to believe that Naruto, who seemed like a nobody, is now such a legendary figure. Seeing Naruto become the Hokage and the world's strongest hero is incredibly moving. I used to watch Naruto all the time back in the day, and now seeing him as this king-like figure, it's just overwhelming. I get emotional thinking about the iconic scenes and songs from Naruto.One of the most amazing moments is when Sasuke suddenly appears to destroy a giant meteor in front of Kakashi and then says, "If Naruto isn't here, I’m the only one who can protect the village," before disappearing like the wind. For anyone who has been with Naruto from the start, it's impossible not to feel emotional. I recently discovered Boruto and I’m sorry for not knowing about it earlier. I'm currently watching episode 20 and seeing the Naruto generation characters again is so touching. It’s like I have this inexplicable, mixed-up feeling of nostalgia and awe. I’ve noticed that Shino seems to be talking more and that he's a good teacher. Also, people criticize Boruto, but I find him cute and his personality reminds me of Naruto. Is it true that there are god-like beings in Boruto who can defeat both Naruto and Sasuke if they were to fight? I read online that there are indeed such powerful beings in Boruto. The scene where Naruto and Sasuke merge together is mind-blowing, and if it's really as powerful as it seems, then it's something you definitely need to see. It seems like they could destroy the world! Seeing Naruto and Sasuke become such supreme beings is incredibly emotional for me, and it brings back memories of my middle school days. I have mixed feelings of sadness and joy, but mostly, I'm deeply moved. Naruto truly is a masterpiece among anime.# Add Discription
 pic: ape.webp # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
 
 # Contact links
@@ -20,7 +20,7 @@ phone: 010 4131 6030 # Add your Phone number
 website: www.youtube.com/watch?v=dQw4w9WgXcQ # Add your website, do not add http://
 # linkedin: # Add your Linkedin handle
 github: LSH49769 # Add your Github handle
-twitter: '@2_castlehwan' # Add your Twitter handle
+twitter: '2_castlehwan' # Add your Twitter handle
 
 # Tracker
 analytics:
